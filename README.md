@@ -25,3 +25,5 @@ Preprocessing: LabelEncoder, StandardScaler
 Models: Random Forest, Gradient Boosting, KNN, Logistic Regression, Decision Tree, Naive Bayes
 
 Evaluation: Performance comparison using visualizations
+
+Dataset Link:- https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
